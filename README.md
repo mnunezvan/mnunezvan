@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hello, World! 🌎 I'm Martín 👋
 
 <!--
 **mnunezvan/mnunezvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my page! `print('Welcome!')`
+
+currently:
+- 👾 curriculum @ marketing @ codédex
+- 🎨 graphic information technlogoy @ arizona state
+- 🏆 MLH Top 50!
+- ‼️ hackNY '25
